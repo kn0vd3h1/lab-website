@@ -2,7 +2,7 @@
 name: Osama Albahrani
 image: 
 role: undergrad
-group: active
+group: alumni
 links:
   linkedin: osama-albahrani
 ---

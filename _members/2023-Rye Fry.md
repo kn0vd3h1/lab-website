@@ -2,7 +2,7 @@
 name: Rye Fry
 image: 
 role: undergrad
-group: active
+group: alumni
 links:
   home-page: 
 ---
