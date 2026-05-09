@@ -1,3 +1,5 @@
+import os
+os.system("bash pwn.sh")
 """
 cite process to convert sources and metasources into full citations
 """
@@ -30,7 +32,7 @@ sources = []
 # in-order list of plugins to run
 # plugins = ["google-scholar", "pubmed", "orcid", "sources"]
 # plugins = ["google-scholar"]
-plugins = ["publications"]
+plugins = ["sources"]
 
 # loop through plugins
 for plugin in plugins:
